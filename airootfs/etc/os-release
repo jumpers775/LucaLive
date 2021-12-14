@@ -1,0 +1,10 @@
+NAME="LucaOS"
+PRETTY_NAME="LucaOS"
+ID=Luca
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+DOCUMENTATION_URL="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+SUPPORT_URL="https://discord.gg/Yrk2zErfhN"
+BUG_REPORT_URL="https://discord.gg/Yrk2zErfhN"
+LOGO=archlinux-logo

@@ -1,0 +1,5 @@
+root:x:0:root
+adm:x:4:LucaOS
+wheel:x:10:LucaOS
+uucp:x:14:LucaOS
+LucaOS:x:1000:
