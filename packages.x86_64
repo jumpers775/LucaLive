@@ -126,3 +126,6 @@ python3
 python-pip
 python-gobject
 gtk3
+neofetch
+git
+unzip
