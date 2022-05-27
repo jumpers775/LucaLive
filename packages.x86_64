@@ -121,7 +121,9 @@ xfsprogs
 xl2tpd
 zsh
 gnome
+gdm-plymouth
 firefox
+plymouth-git
 python3
 python-pip
 python-gobject
